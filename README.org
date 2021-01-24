@@ -1,4 +1,3 @@
-#+TITLE: Readme
 * TODOs
 - [ ] animation input
 - [ ] creditcard
